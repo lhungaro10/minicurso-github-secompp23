@@ -1,1 +1,3 @@
-console.log("Hello Git");
+function sum(a,b){
+    return a + b;
+}
